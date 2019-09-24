@@ -1,0 +1,65 @@
+Training stage 1: Load positive images...
+Positive images 2005, negative images 10000, image shape (3, 64, 64), image shape (3, 64, 64)
+Training stage 2: Cascades training...
+Discriminator: Cascade 0, iteration 0, all pos 1000, all neg 1000, current iteration 2000 (pos 1000, neg 1000), learning rate 0.01
+Discriminator: Cascade 0, iteration 0, Critic 0, time 24.42094874382019, D_loss 5.839303970336914, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 24.648452043533325, D_loss 81.172607421875, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 24.876097917556763, D_loss 4.331092834472656, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 25.103687524795532, D_loss 2.895991802215576, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 25.33150601387024, D_loss 3.2221665382385254, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 25.55944514274597, D_loss 2.2633256912231445, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 25.787364721298218, D_loss 0.4453904628753662, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 26.01509404182434, D_loss -0.39906567335128784, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 26.242941856384277, D_loss -1.9871950149536133, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 26.47060251235962, D_loss -4.0945000648498535, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 26.698475122451782, D_loss -6.335005283355713, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 26.926263093948364, D_loss -8.677864074707031, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 27.15405797958374, D_loss 0.5331711769104004, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 27.38192319869995, D_loss -3.8383188247680664, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 27.609859228134155, D_loss -8.247587203979492, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 27.837445735931396, D_loss -5.48414421081543, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 28.06515407562256, D_loss -4.976407051086426, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 28.293212175369263, D_loss -10.751070976257324, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 28.52090573310852, D_loss -11.14293098449707, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 0, time 28.748546361923218, D_loss -11.850651741027832, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 28.97641682624817, D_loss -13.02768611907959, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 29.204302549362183, D_loss -15.398637771606445, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 29.431773900985718, D_loss -20.213905334472656, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 29.659526586532593, D_loss -24.48077392578125, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 29.88742685317993, D_loss -23.06119728088379, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 30.1152286529541, D_loss 4.656578063964844, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 30.343857049942017, D_loss -13.383387565612793, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 30.571887493133545, D_loss -9.544219970703125, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 30.800172090530396, D_loss -17.488231658935547, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 31.02840495109558, D_loss -27.422637939453125, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 31.25670099258423, D_loss -17.84664535522461, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 31.484939575195312, D_loss -22.867708206176758, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 31.713382720947266, D_loss -24.91206932067871, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 31.941742658615112, D_loss -25.422243118286133, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 32.16994786262512, D_loss -31.95491600036621, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 32.39824914932251, D_loss -7.121070861816406, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 32.626662254333496, D_loss -22.06467056274414, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 32.854888677597046, D_loss -18.660367965698242, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 33.083298206329346, D_loss -16.317909240722656, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 1, time 33.31142544746399, D_loss -18.204208374023438, D_pos_loss inf, -inf
+Discriminator: Cascade 0, iteration 0, Critic 2, time 33.539830923080444, D_loss -18.504230499267578, D_pos_loss -19.67135238647461, -19.67135238647461
+Discriminator: Cascade 0, iteration 0, Critic 2, time 33.76830530166626, D_loss -23.704086303710938, D_pos_loss -19.67135238647461, -16.237356185913086
+Discriminator: Cascade 0, iteration 0, Critic 2, time 33.996586561203, D_loss -30.682449340820312, D_pos_loss -19.67135238647461, -16.237356185913086
+Discriminator: Cascade 0, iteration 0, Critic 2, time 34.225008487701416, D_loss -47.06942367553711, D_pos_loss -19.67135238647461, -13.142958641052246
+Discriminator: Cascade 0, iteration 0, Critic 2, time 34.45349073410034, D_loss -38.689125061035156, D_pos_loss -19.67135238647461, 19.399805068969727
+Discriminator: Cascade 0, iteration 0, Critic 2, time 34.681719064712524, D_loss 571.6889038085938, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 34.91012501716614, D_loss -10.839361190795898, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 35.13857698440552, D_loss -2.603271722793579, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 35.36695051193237, D_loss -1.5635180473327637, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 35.595263719558716, D_loss -3.404268503189087, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 35.82368612289429, D_loss -5.462641716003418, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 36.0521080493927, D_loss -8.877989768981934, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 36.28029727935791, D_loss -14.562244415283203, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 36.50927233695984, D_loss -7.634825706481934, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 36.737666606903076, D_loss -14.1229829788208, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 36.96632504463196, D_loss -17.42123031616211, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 37.19518208503723, D_loss -17.966115951538086, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 37.42438292503357, D_loss -26.87905502319336, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 37.65260982513428, D_loss -27.6112060546875, D_pos_loss -19.67135238647461, 68.86988067626953
+Discriminator: Cascade 0, iteration 0, Critic 2, time 37.88139486312866, D_loss -26.115097045898438, D_pos_loss -19.67135238647461, 68.86988067626953
+Sampler: Cascade 0, iteration 0, current iteration neg 1000

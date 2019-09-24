@@ -1,0 +1,26 @@
+==> Args:
+  batch_size: 100
+  beta1_dis: 0.5
+  beta1_gen: 0.5
+  beta1_s: 0.5
+  category: alp
+  ckpt_dir: ./checkpoint
+  ckpt_dis: None
+  ckpt_gen: None
+  data_path: ./data/scene
+  img_size: 64
+  incep_interval: 0
+  log_dir: ./checkpoint
+  log_epoch: 50
+  lr_dis: 0.01
+  lr_gen: 0.01
+  lr_s: 0.01
+  num_epoch: 300
+  output_dir: ./result_images
+  score: False
+  set: scene
+  sigma_gen: 0.3
+  step_num_gen: 1000
+  test: False
+  test_size: 1
+  z_size: 100
